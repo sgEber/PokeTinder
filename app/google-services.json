@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "802366137829",
+    "project_id": "poketinder-fe80e",
+    "storage_bucket": "poketinder-fe80e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802366137829:android:e05d8436cf41832fde3b0c",
+        "android_client_info": {
+          "package_name": "com.solano.eber.poketinder2023"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802366137829-qa32eici3nbi41r4mnb3h89q6momhv0h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7JEaQJXjSOFCT8R_wrQdKm0BR3IJEhts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "802366137829-qa32eici3nbi41r4mnb3h89q6momhv0h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
